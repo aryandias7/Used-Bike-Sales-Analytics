@@ -9,9 +9,10 @@ An end-to-end data analytics project that analyzes resale value trends across 32
 * **Data Modeling:** Implemented Star Schema principles for efficient querying.
 
 ## 🔍 Key Insights
-1.  **Depreciation Gap:** Premium superbikes retain **15% more value** after 5 years compared to budget commuter bikes.
-2.  **Seller Premium:** Dealerships list bikes for an average of **20% higher** prices than individual sellers.
-3.  **Market Volume:** Royal Enfield and Bajaj dominate the resale volume, accounting for 60% of listings.
+1.  **Rapid Depreciation:** The data reveals a steep depreciation curve, with motorcycles losing approximately **50% of their value** within the first 5 years of ownership.
+2.  **Seller Pricing:** Contrary to common belief, Dealerships list bikes for only **~5% higher** prices (Avg: ₹63k) compared to Individual sellers (Avg: ₹60k), suggesting a competitive second-hand market.
+3.  **Brand Value:** Premium brands like **Harley Davidson** and **BMW** maintain significantly higher absolute resale figures compared to mass-market brands, despite the age of the vehicle.
+4.  **Market Dominance:** **Honda** and **Bajaj** account for the majority of the listed inventory.
 
 ## 📷 Dashboard Preview
 <img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/e1d4e483-6534-40b2-9ee7-fa3d348e853b" />
